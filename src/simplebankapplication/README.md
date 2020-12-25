@@ -5,7 +5,6 @@
 # EN
 
 Hello people!
-
 This is a project in the form of a banking application, I created myself without prompts.
 
 *****************************************************************************************
@@ -13,5 +12,4 @@ This is a project in the form of a banking application, I created myself without
 # RU
 
 Привет народ!
-
 Это проект в виде банковского приложения, я создал сам без подсказок.
